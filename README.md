@@ -55,6 +55,7 @@ Plots of all learning curves are saved as pdf files in a subfolder inside the da
 ---
 
 __**Notices**__:
+
 _Copyright **2019** United States Government as represented by the Administrator of the National Aeronautics and Space Administration.  No copyright is claimed in the United States under Title 17, U.S. Code. All Other Rights Reserved._
 
 __**Disclaimers**__
